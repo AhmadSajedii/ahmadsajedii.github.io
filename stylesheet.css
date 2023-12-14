@@ -75,9 +75,7 @@ a:hover {
 }
 
 body,
-td{
-      padding: 5px; /* Adjust the padding to decrease space */
-    },
+td,
 th,
 tr,
 p,
